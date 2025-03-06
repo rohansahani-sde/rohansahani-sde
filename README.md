@@ -1,7 +1,29 @@
 # Hi there, I'm Rohan Sahani! 👋
 
-I'm a **Frontend Developer** passionate about building **React.js** and **Tailwind CSS** projects.  
-I also enjoy solving **LeetCode problems** and contributing to **open-source**.
+- 💻 Full Stack **Developer** currently working with React.js, Tailwind CSS, Node.js, and MongoDB.
+- 🤖 Interest in AI , Data Science & DSA,
+
+
+- # ⚡ Fun Fact:
+💡  Fun fact: I love exploring new technologies and solving coding challenges! 🚀
+
+
+
+# 📫Connect with me:
+
+<p align="left">
+<a href="mailto:sahanirohan313@gmail.com" target="_blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" alt="sahanirohan313@gmail.com"></a>
+<a href="https://www.linkedin.com/in/rohan-sahani-09-/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sahani-09-" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sahanirohan313/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"alt="sahanirohan313" height="30" width="40" /></a>
+<a href="https://x.com/9793_rohan" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9793_rohan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/0001__sahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0001__sahani" height="30" width="40" /></a>
+</p>
+
+
 
 ## 🚀 Skills:
 - 🔹 HTML | CSS | JavaScript | React.js
@@ -9,12 +31,6 @@ I also enjoy solving **LeetCode problems** and contributing to **open-source**.
 - 🔹 Git | GitHub | REST API
 - 🔹 C | Java
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-sahani-09-/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/u/sahanirohan313/)  
-
-## ⚡ Fun Fact:
-💡 I love exploring **new technologies** and attending **GDG events**!
 
 ---
 
