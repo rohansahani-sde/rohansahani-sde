@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Rohan Sahani! 👋
 
-<!--
-**0001sahani/0001sahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building **React.js** and **Tailwind CSS** projects.  
+I also enjoy solving **LeetCode problems** and contributing to **open-source**.
 
-Here are some ideas to get you started:
+## 🚀 Skills:
+- 🔹 HTML | CSS | JavaScript | React.js
+- 🔹 Tailwind CSS | Bootstrap
+- 🔹 Git | GitHub | REST API
+- 🔹 C | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-sahani-09-/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/u/sahanirohan313/)  
+
+## ⚡ Fun Fact:
+💡 I love exploring **new technologies** and attending **GDG events**!
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!**  
