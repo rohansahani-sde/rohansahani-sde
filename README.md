@@ -1,17 +1,25 @@
-# Hi there, I'm Rohan Sahani! 👋
+ # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rohan sahani</h1>
+
 
 - 💻 Full Stack **Developer** currently working with React.js, Tailwind CSS, Node.js, and MongoDB.
 - 🤖 Interest in AI , Data Science & DSA,
 
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohansahani-sde&show_icons=true&theme=algolia" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansahani-sde&show_icons=true&theme=algolia&layout=compact" width="375"/>
+  </div>
 
 - # ⚡ Fun Fact:
 💡  Fun fact: I love exploring new technologies and solving coding challenges! 🚀
 
 
 
+
 # 📫Connect with me:
 
-<p align="left">
+<p align="center">
 <a href="mailto:sahanirohan313@gmail.com" target="_blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" alt="sahanirohan313@gmail.com"></a>
 <a href="https://www.linkedin.com/in/rohan-sahani-09-/" target="_blank">
@@ -33,5 +41,8 @@
 
 
 ---
-
-⭐ **If you like my work, consider giving my repositories a star!**  
+<div align="center">
+  ✨  If you like my work, consider giving my repositories a star!   ✨ <br/>
+  @rohansahani-sde
+</div>
+<!-- ⭐ **If you like my work, consider giving my repositories a star!**   -->
