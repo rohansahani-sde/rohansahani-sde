@@ -38,11 +38,16 @@
 - 🔹 Tailwind CSS | Bootstrap
 - 🔹 Git | GitHub | REST API
 - 🔹 C | Java
-
+  
+---
++ Visit count :
+  ![](https://count.getloli.com/get/@rohansahani-sde?theme=sketch-1)
 
 ---
 <div align="center">
   ✨  If you like my work, consider giving my repositories a star!   ✨ <br/>
   @rohansahani-sde
 </div>
+
+
 <!-- ⭐ **If you like my work, consider giving my repositories a star!**   -->
