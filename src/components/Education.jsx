@@ -93,6 +93,9 @@ const Education = () => {
 
 
 
+
+
+
     </section>
   );
 };

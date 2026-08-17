@@ -112,7 +112,7 @@ const Home1 = () => {
             </div>
 
             {/* Name  */}
-            <div className="text-slate-200 lg:text-[80px] md:text-[60px] sm:text-[50px] text-[40px] font-bold font-sans">
+            <div data-aos="flip-left" className="text-slate-200 lg:text-[80px] md:text-[60px] sm:text-[50px] text-[40px] font-bold font-sans">
                 <h1>Rohan Sahani.</h1>
             </div>
 
