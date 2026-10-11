@@ -1,53 +1,32 @@
- # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rohan sahani</h1>
+# Rohan Sahani
 
+Backend-focused full-stack developer. I build web products with Node.js, React and Python, and integrate LLM APIs where they add real value.
 
-- 💻 Full Stack **Developer** currently working with React.js, Tailwind CSS, Node.js, and MongoDB.
-- 🤖 Interest in AI , Data Science & DSA,
+Final-year B.Tech Computer Science student at Parul University (graduating 2027), based in Vadodara, India. Looking for SDE internship and entry-level roles starting January 2027.
 
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohansahani-sde&show_icons=true&theme=algolia" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansahani-sde&show_icons=true&theme=algolia&layout=compact" width="375"/>
-  </div>
+## Selected projects
 
-- # ⚡ Fun Fact:
-💡  Fun fact: I love exploring new technologies and solving coding challenges! 🚀
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **LeetPush** | Browser extension that syncs accepted LeetCode submissions to a GitHub repository in one click, with OAuth 2.0 and personal access token login | JavaScript, Node.js, Express.js, GitHub REST API | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/leetpush/dllaoogleglgdlhnbknckgdiakmnbgcc) |
+| **AI Mock Test Platform** | Generates role-based MCQ and DSA questions with an LLM, runs submitted code against hidden test cases, and tracks scores | React, Node.js, Express.js, FastAPI, MongoDB, Groq | [Code](https://github.com/rohansahani-sde/AI_Mock_Test_Platform) |
+| **AI Revision Master** | Generates day-wise DSA study roadmaps with the Gemini API, with flashcard quizzes and revision reminders | React, Node.js, Express.js, MongoDB, Gemini API | [Code](https://github.com/rohansahani-sde/AI-revision-master) |
+| **JanSeva** | Civic-issue reporting platform built in a 36-hour hackathon; I was the backend contributor | Node.js, Express.js, MongoDB, JWT | [Code](https://github.com/rohansahani-sde/JanSevaPUhackathon) |
 
+## Technical skills
 
+- **Languages:** JavaScript, Java, Python, SQL
+- **Backend and web:** Node.js, Express.js, FastAPI, React.js, REST API design, JWT and OAuth 2.0, Tailwind CSS
+- **AI and LLM:** Gemini API, Groq API, prompt engineering, structured JSON outputs
+- **Databases and tools:** MongoDB, Mongoose, Git, GitHub, Postman, Vercel
+- **Fundamentals:** Data structures and algorithms, OOP, DBMS, operating systems, computer networks
 
+## Problem solving
 
-# 📫Connect with me:
+LeetCode Knight with a 1,900+ contest rating across 70+ contests, and 700+ problems solved in Java. Solutions are in [leetcode-solutions](https://github.com/rohansahani-sde/leetcode-solutions).
 
-<p align="center">
-<a href="mailto:sahanirohan313@gmail.com" target="_blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" alt="sahanirohan313@gmail.com"></a>
-<a href="https://www.linkedin.com/in/rohan-sahani-09-/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sahani-09-" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sahanirohan313/" target="_blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"alt="sahanirohan313" height="30" width="40" /></a>
-<a href="https://x.com/9793_rohan" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9793_rohan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0001__sahani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0001__sahani" height="30" width="40" /></a>
-</p>
+## Contact
 
-
-
-## 🚀 Skills:
-- 🔹 HTML | CSS | JavaScript | React.js
-- 🔹 Tailwind CSS | Bootstrap
-- 🔹 Git | GitHub | REST API
-- 🔹 C | Java
-  
----
-+ Visit count :
-  ![](https://count.getloli.com/get/@rohansahani-sde?theme=sketch-1)
-
----
-<div align="center">
-  ✨  If you like my work, consider giving my repositories a star!   ✨ <br/>
-  @rohansahani-sde
-</div>
-
-
-<!-- ⭐ **If you like my work, consider giving my repositories a star!**   -->
+- Email: [sahanirohan313@gmail.com](mailto:sahanirohan313@gmail.com)
+- LinkedIn: [linkedin.com/in/rohansahani](https://www.linkedin.com/in/rohansahani/)
+- LeetCode: [leetcode.com/u/sahanirohan313](https://leetcode.com/u/sahanirohan313/)
